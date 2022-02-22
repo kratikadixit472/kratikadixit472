@@ -3,10 +3,15 @@
 <!--
 **kratikadixit472/kratikadixit472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+### About Me👩‍💻
 
-- 🔭 I’m currently working as Software Engineer at Cisco.
-- 🌱 I’m currently learning Web development and I love solving challenging programming problems.
-- 💬 Ask me about Data Structures and ALgorithms
+- 🔭 Currently I'm working as Software Engineer at Cisco.
+- 🌱 In my free time I like to explore latest technologies and I love solving challenging programming problems.
+- 💬 Ask me about Data Structures and Algorithms
+- 📚 Reading can be the ultimate solution for any problem.
 - 📫 How to reach me: kratikadixit472@gmail.com
-- ⚡ Hobbies: I like reading and writing journal.
+
+### Tech Stack
+
+- 💻 Data Structures and Algorithms | Java | Linux
+- 🎗 HTML | CSS | JavaSript
