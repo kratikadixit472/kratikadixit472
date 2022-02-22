@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Cisco as Software Engineer.
-- 🌱 I’m currently learning Web development.
+- 🔭 I’m currently working as Software Engineer at Cisco.
+- 🌱 I’m currently learning Web development and I love solving challenging programming problems.
 - 💬 Ask me about Data Structures and ALgorithms
 - 📫 How to reach me: kratikadixit472@gmail.com
 - ⚡ Hobbies: I like reading and writing journal.
