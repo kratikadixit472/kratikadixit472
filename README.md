@@ -5,7 +5,7 @@
 -->
 ### About Me👩‍💻
 
-- 🔭 Currently I'm working as Software Engineer at Cisco.
+- 🔭 Currently working as Software Engineer at Cisco.
 - 🌱 In my free time I like to explore latest technologies and I love solving challenging programming problems.
 - 💬 Ask me about Data Structures and Algorithms
 - 📚 Reading can be the ultimate solution for any problem.
