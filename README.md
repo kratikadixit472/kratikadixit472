@@ -26,11 +26,19 @@
   
 ## 🔥 Streak Stats
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kratikadixit472&theme=nightowl" alt="kratika's streak" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kratikadixit472&theme=algolia" alt="kratika's streak" /></p>
+<!-- ACTIVITY GRAPH TRACKER -->
+[![Kratika's github activity graph](https://activity-graph.herokuapp.com/graph?username=kratikadixit472&theme=react-dark)](https://github.com/kratikadixit472/github-readme-activity-graph)
 
+
+<!--
 ## 📈 Activity Graph
 
 <br/>
 <h2 align="center"> My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=kratikadixit472&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kratika's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=kratikadixit472&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+
+-->
