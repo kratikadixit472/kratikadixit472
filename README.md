@@ -3,7 +3,7 @@
 <!--
 **kratikadixit472/kratikadixit472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 👩‍💻 About Me
+### 👩‍💼 About Me
 
 - 👩‍💻 A passionate self-learner and Software Engineer at Cisco.
 - 💻 Currently I am learning web Development, Systems Design, and AI/ML.
