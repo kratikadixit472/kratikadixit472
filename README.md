@@ -14,7 +14,6 @@
 - 💻 Data Structures and Algorithms | Java | Linux
 - 🎗 HTML | CSS | JavaSript
 
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -23,10 +22,7 @@
   <a href="https://www.linkedin.com/in/kratikadixit4729954/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </a>
 </p>
-
-
-
-<br>  
+  
   
 ## 🔥 Streak Stats
 
