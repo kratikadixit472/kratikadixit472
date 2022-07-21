@@ -12,3 +12,5 @@
 
 - 💻 Data Structures and Algorithms | Java | Linux
 - 🎗 HTML | CSS | JavaSript
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kratikadixit472)](https://git.io/streak-stats)
