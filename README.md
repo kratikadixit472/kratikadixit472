@@ -20,6 +20,7 @@
 	<a href="mailto:kratikadixit472@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/kratikadixit472"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/kratikadixit4729954/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<!--<a href="https://leetcode.com/kratikadixit/"><img src="https://iconscout.com/icon/leetcode-3521542?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode"/></a> -->
   </a>
 </p>
   
