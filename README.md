@@ -34,9 +34,9 @@
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=kratikadixit472&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 	</p> -->
 
-<!-- ACTIVITY GRAPH TRACKER -->
+<!-- ACTIVITY GRAPH TRACKER 
 [![Kratika's github activity graph](https://activity-graph.herokuapp.com/graph?username=kratikadixit472&theme=react-dark)](https://github.com/kratikadixit472/github-readme-activity-graph)
-
+-->
 
 <!--
 ## 📈 Activity Graph
