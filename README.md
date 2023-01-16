@@ -30,7 +30,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kratikadixit472&theme=nightowl" alt="kratika's streak" /></p>
 
 <!-- ## 🔥 Github Stats
- My github Stats : 
+ My github Stats :  
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=kratikadixit472&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 	</p> -->
 
