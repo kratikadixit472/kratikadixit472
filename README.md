@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 
 - 💻 Data Structures and Algorithms | Java | Linux
-- 🎗 HTML | CSS | JavaSript | React | Node.js
+<!-- 🎗 HTML | CSS | JavaSript | React | Node.js -->
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
